@@ -44,8 +44,8 @@ pip install numpy pandas scikit-learn
 ## Usage
 Ensure you have the dataset (diabetes prediction model.csv) in the same directory as the script.
 
-Run the Python script to train and evaluate the model:
-   python diabetesprediction.py
+Run the Python script to train and evaluate the model:<br>
+   python diabetesprediction.py<br>
    The script will output the accuracy of the model on both the training and test datasets. It will also allow you to input custom data to make predictions.
 
 ## Model Evaluation

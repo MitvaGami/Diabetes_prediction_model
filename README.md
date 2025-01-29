@@ -51,8 +51,8 @@ pip install numpy pandas scikit-learn
 
 ## Model Evaluation
 1.The model's performance is evaluated using accuracy scores:<br>
-   - **Training Data Accuracy:**: The accuracy of the model on the training dataset.<br>
-   - **Test Data Accuracy**: The accuracy of the model on the test dataset.<br>
+- **Training Data Accuracy:**: The accuracy of the model on the training dataset.<br>
+- **Test Data Accuracy**: The accuracy of the model on the test dataset.
 2.The model achieves an accuracy of approximately 78% on the test dataset, which is a good baseline for further improvements.
 
 ## Future Improvements

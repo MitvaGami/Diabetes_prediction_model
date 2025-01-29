@@ -42,20 +42,22 @@ To run this project locally, you need to have Python installed along with the ne
 2.Install the required Python packages:
 pip install numpy pandas scikit-learn
 ## Usage
-Ensure you have the dataset (diabetes prediction model.csv) in the same directory as the script.
-
-Run the Python script to train and evaluate the model:<br>
-   python diabetesprediction.py<br>
-   The script will output the accuracy of the model on both the training and test datasets. It will also allow you to input custom data to make predictions.
+1.Ensure you have the dataset (diabetes prediction model.csv) in the same directory as the script.
+2.Run the Python script to train and evaluate the model:<br>
+  python diabetesprediction.py<br>
+3.The script will output the accuracy of the model on both the training and test datasets. 
+4.It will also allow you to input custom data to make predictions.
 
 ## Model Evaluation
-The model's performance is evaluated using accuracy scores:
+1.The model's performance is evaluated using accuracy scores:
+   a)Training Data Accuracy: The accuracy of the model on the training dataset.
+   b)Test Data Accuracy: The accuracy of the model on the test dataset.
+2.The model achieves an accuracy of approximately 78% on the test dataset, which is a good baseline for further improvements.
 
-Training Data Accuracy: The accuracy of the model on the training dataset.
-
-Test Data Accuracy: The accuracy of the model on the test dataset.
-
-The model achieves an accuracy of approximately 78% on the test dataset, which is a good baseline for further improvements.
+## Future Improvements
+1.Integrate other ML algorithms (Logistic Regression, Random Forest, etc.)
+2.Implement a web or mobile app interface
+3.Deploy the model as an API
 
 
 ## License

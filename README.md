@@ -50,10 +50,11 @@ pip install numpy pandas scikit-learn
 4.It will also allow you to input custom data to make predictions.
 
 ## Model Evaluation
-1.The model's performance is evaluated using accuracy scores:<br>
-- **Training Data Accuracy:**: The accuracy of the model on the training dataset.<br>
-- **Test Data Accuracy**: The accuracy of the model on the test dataset.
-2.The model achieves an accuracy of approximately 78% on the test dataset, which is a good baseline for further improvements.
+The model's performance is evaluated using accuracy scores:<br>
+- **Training Data Accuracy:** The accuracy of the model on the training dataset.<br>
+- **Test Data Accuracy:** The accuracy of the model on the test dataset.<BR>
+- The model achieves an accuracy of approximately **78%** on the test dataset, which is a good baseline for further improvements<br>
+
 
 ## Future Improvements
 1.Integrate other ML algorithms (Logistic Regression, Random Forest, etc.)<br>

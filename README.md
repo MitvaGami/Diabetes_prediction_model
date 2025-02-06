@@ -8,7 +8,6 @@ This repository contains a machine learning model for predicting diabetes based 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Evaluation](#model-evaluation)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
